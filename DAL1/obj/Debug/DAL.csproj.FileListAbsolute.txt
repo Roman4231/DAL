@@ -1,0 +1,7 @@
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\DAL1\bin\Debug\DAL1.dll.config
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\DAL1\bin\Debug\DAL1.dll
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\DAL1\bin\Debug\DAL1.pdb
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\DAL1\bin\Debug\MySql.Data.dll
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\DAL1\obj\Debug\DAL1.dll
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\DAL1\obj\Debug\DAL1.pdb
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\DAL1\obj\Debug\DAL.csprojResolveAssemblyReference.cache

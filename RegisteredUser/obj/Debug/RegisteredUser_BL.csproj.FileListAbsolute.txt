@@ -1,0 +1,8 @@
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\RegisteredUser\bin\Debug\RegisteredUser.dll
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\RegisteredUser\bin\Debug\RegisteredUser.pdb
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\RegisteredUser\bin\Debug\DAL1.dll
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\RegisteredUser\bin\Debug\MySql.Data.dll
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\RegisteredUser\bin\Debug\DAL1.pdb
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\RegisteredUser\obj\Debug\RegisteredUser_BL.csprojResolveAssemblyReference.cache
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\RegisteredUser\obj\Debug\RegisteredUser.dll
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\RegisteredUser\obj\Debug\RegisteredUser.pdb

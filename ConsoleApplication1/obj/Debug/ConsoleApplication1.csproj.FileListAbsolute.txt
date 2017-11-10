@@ -1,0 +1,9 @@
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\ConsoleApplication1\bin\Debug\DAL1.dll
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\ConsoleApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\ConsoleApplication1\bin\Debug\DAL1.pdb
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Адмін\Documents\Visual Studio 2015\Projects\DAL\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
