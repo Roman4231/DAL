@@ -52,6 +52,7 @@ namespace shop_UI
                 this.DialogResult = DialogResult.None;
                 return;
             }
+            currentUser = new User();
             currentUser.user_ID = newUser.user_ID;
             currentUser.login = newUser.login;
             currentUser.email = newUser.email;

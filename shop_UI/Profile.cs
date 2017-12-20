@@ -33,6 +33,8 @@ namespace shop_UI
 
         private void updateLV()
         {
+            loginLbl.Text = currentUser.login;
+            emailLbl.Text = currentUser.email;
             List<Order> orders = (new Order_BL()).findUserOrders(currentUser.user_ID);
             foreach (Order order in orders) {
                 ordersLV.Groups.Add(new ListViewGroup("Date: " + order.date.ToString(),
